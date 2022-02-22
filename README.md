@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodadsilva&label=Profile%20views&color=0e75b6&style=flat" alt="chamodadsilva" /> </p>
 
-<p align="left"> <a href="https://twitter.com/DeChamoda" target="blank"><img src="https://img.shields.io/twitter/follow/chamoda de silva?logo=twitter&style=for-the-badge" alt="chamoda de silva" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DeChamoda" target="blank"><img src="https://img.shields.io/twitter/follow/DeChamoda?logo=twitter&style=for-the-badge" alt="chamoda de silva" /></a> </p>
 
 - 💬 Ask me about **Android,Java**
 
@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DeChamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamoda de silva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chamoda de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamoda de silva" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chamoda de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chamoda de silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chamoda-de-silva-39a3a31aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamoda de silva" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12820092/chamoda-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chamoda de silva" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chamoda de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamoda de silva" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chamoda de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamoda de silva" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Chamoda_20200176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamoda de silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
