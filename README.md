@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android,Java**
 
-- 📫 How to reach me **chamoda12345678@gmail.com**
+- 📫 How to reach me **chamodadsilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
